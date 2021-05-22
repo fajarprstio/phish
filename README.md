@@ -1,4 +1,4 @@
-# phishh
+# Phishh
 Phishh is a simple application that create from shell. this app can manipulate some website for get user and password from others.
 But remember. be wise while using this application!
 
